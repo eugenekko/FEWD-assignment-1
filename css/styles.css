@@ -1,0 +1,82 @@
+body {
+  margin-left: 13rem;
+  margin-right: 13rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 0.2rem solid;
+  border-bottom: 0.2rem solid;
+  background-color: white;
+}
+
+.links {
+  text-align: center;
+  position: relative;
+  bottom: -1rem;
+}
+
+.kerning {
+  letter-spacing: 2px;
+}
+
+.image {
+  margin: auto;
+  display: block;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.name {
+  padding-bottom: 0.5rem;
+  padding-left: 20rem;
+  padding-right: 20rem;
+  text-align: center;
+}
+
+.line {
+  margin: auto;
+  display: block;
+  border-bottom: 0.1rem solid;
+  width: 48rem;
+}
+
+footer {
+  border-bottom: 0.2 solid;
+}
+
+.selector {
+  position: absolute;
+  right: -18rem;
+  top: 11rem;
+}
+
+.wrap-text {
+  word-wrap: break-word;
+}
+
+.profile-picture {
+  height: 25%;
+  width: 25%;
+  outline: 0.1rem solid black;
+}
+
+.about-text {
+  padding-bottom: 2rem;
+  padding-right: 25rem;
+  padding-left: 3.1rem;
+}
+
+.social-media {
+  padding-top: 1rem;
+  padding-left: 9rem;
+  font-weight: bold;
+}
+
+.second-line {
+  margin-left: 3rem;
+  display: block;
+  border-bottom: 0.1rem solid;
+  width: 25rem;
+  padding-right: 4.5rem;
+}
